@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Compose Practice</string>
+    <string name="chicago">Chicago</string>
+    <string name="descriptionone">Hey, mankind was born one earth
+        doesnt mean to die here. We are not meant to save the eatrth
+        we meant to leave it.
+    </string>
+    <string name="order">Take Order Away</string>
 </resources>
